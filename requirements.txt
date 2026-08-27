@@ -1,0 +1,8 @@
+langchain-ollama # package that can create ai agents with ollama
+langchain_core # package that create tool
+langchain # package to craete agent
+ollama # application that can host llm
+langgraph # tech behind connecting the llm and tool
+fastmcp # this package allows you to create and manage mcp server / apps
+langchain-mcp-adapters # this package allows you to import and run mcp tools
+# subprocess # es se aap command chala skte ho, ye library already python ke ander rhta hai.
